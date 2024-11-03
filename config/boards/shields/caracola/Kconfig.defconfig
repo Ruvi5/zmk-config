@@ -1,0 +1,6 @@
+if SHIELD_CARACOLA
+
+config ZMK_KEYBOARD_NAME
+    default "caracola"
+
+endif
